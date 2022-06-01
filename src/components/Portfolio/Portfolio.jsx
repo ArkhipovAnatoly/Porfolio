@@ -8,6 +8,7 @@ import Momentum from '../../assets/img/works/momentum.jpg';
 import ArtQuiz from '../../assets/img/works/ArtQuiz.jpg';
 import Lang from '../../assets/img/works/Lang.jpg';
 import Christmas from '../../assets/img/works/Christmas.jpg';
+import Temper from '../../assets/img/works/Temper.jpg';
 import { themeContext } from '../../Context';
 
 const deploys = [
@@ -34,6 +35,10 @@ const deploys = [
     {
         imgSrc: Christmas,
         link: 'https://christmas-project-aa.netlify.app',
+    },
+    {
+        imgSrc: Temper,
+        link: 'https://react-project-management-system-team7.netlify.app',
     },
 ];
 
